@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Ahmed Gamal 👋
 
-<!--
-**Ahmed-Gamal24/Ahmed-Gamal24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Computer Science and Engineering student
+with a keen interest in software development and engineering.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 **Currently Learning:** Deepening my knowledge in Software Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Programming Languages:** C++, Python, HTML, CSS, JavaScript
+- **Tools:** Proficient in Linux and other development environments.
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ahmed-gamal4/)

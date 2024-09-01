@@ -1,4 +1,5 @@
-# Hi there, I'm Ahmed Gamal 👋
+# Hi there, I'm Ahmed Gamal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 Welcome to my GitHub profile! I'm a Computer Science and Engineering student with a keen interest in software development and engineering.
 
@@ -25,8 +26,11 @@ Welcome to my GitHub profile! I'm a Computer Science and Engineering student wit
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/OOP-3DDC84?style=for-the-badge&logo=oop&logoColor=white" alt="OOP" />
   <img src="https://img.shields.io/badge/Data%20Structures-4A4A55?style=for-the-badge" alt="Data Structures" />
   <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge" alt="Algorithms" />
   <img src="https://img.shields.io/badge/Computer%20Architecture-8E44AD?style=for-the-badge" alt="Computer Architecture" />
 </p>
+
+

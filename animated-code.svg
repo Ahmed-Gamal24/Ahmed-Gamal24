@@ -1,0 +1,18 @@
+<svg width="150" height="150" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .code-text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 10px;
+      fill: #00f;
+      animation: blinkCursor 1s step-start infinite;
+    }
+    @keyframes blinkCursor {
+      50% { fill: transparent; }
+    }
+  </style>
+  <rect width="100" height="100" fill="#222"/>
+  <text x="10" y="30" class="code-text">// Code is cool!</text>
+  <text x="10" y="50" class="code-text">const svg =</text>
+  <text x="10" y="70" class="code-text">"animate";</text>
+  <text x="10" y="90" class="code-text">document.body.appendChild(svg);</text>
+</svg>

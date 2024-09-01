@@ -1,11 +1,11 @@
-<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
   <style>
     .code-text {
       font-family: 'Courier New', Courier, monospace;
       font-size: 16px;
       fill: #00ff00;
       white-space: nowrap;
-      animation: typing 4s steps(40, end) infinite;
+      animation: typing 8s steps(60, end) 1 normal both;
     }
     .cursor {
       font-family: 'Courier New', Courier, monospace;
@@ -23,10 +23,10 @@
     }
   </style>
   <rect width="100%" height="100%" fill="#000"/>
-  <text x="10" y="40" class="code-text" style="width: 100%; white-space: nowrap;">console.log('Hello, World!');</text>
-  <text x="10" y="80" class="code-text" style="width: 100%; white-space: nowrap;">const svg = document.querySelector('svg');</text>
-  <text x="10" y="120" class="code-text" style="width: 100%; white-space: nowrap;">svg.classList.add('animated');</text>
-  <text x="390" y="40" class="cursor">|</text>
-  <text x="390" y="80" class="cursor">|</text>
-  <text x="390" y="120" class="cursor">|</text>
+  <text x="10" y="40" class="code-text">"Why do programmers prefer dark mode?"</text>
+  <text x="10" y="80" class="code-text">"Because light attracts bugs!"</text>
+  <text x="10" y="120" class="code-text">"Keep calm and code on."</text>
+  <text x="570" y="40" class="cursor">|</text>
+  <text x="570" y="80" class="cursor">|</text>
+  <text x="570" y="120" class="cursor">|</text>
 </svg>
